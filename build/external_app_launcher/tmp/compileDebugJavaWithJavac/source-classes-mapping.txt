@@ -1,0 +1,4 @@
+com/example/launchexternalapp/BuildConfig.java
+ com.example.launchexternalapp.BuildConfig
+com/example/launchexternalapp/LaunchexternalappPlugin.java
+ com.example.launchexternalapp.LaunchexternalappPlugin
